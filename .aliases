@@ -1,0 +1,4 @@
+alias gb="git branch"
+alias gca="git commit -a"
+alias gs="git status"
+alias gco="git checkout"
